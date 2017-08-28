@@ -1,4 +1,4 @@
 void main(void)
 {
-  b3()
+  b3(a)
 }
