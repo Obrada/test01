@@ -1,3 +1,4 @@
 void t4()
 {
+  print();
 }
